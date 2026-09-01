@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloController {
     @GetMapping("/")
     public String index() {
-        return "Welcome to my AUTOMATED APP! v2.0";
+        return "Final APP! v3.0";
     }
 }
